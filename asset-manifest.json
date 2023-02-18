@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ozan-sert/Feedback-app/static/css/main.0a091ee3.css",
+    "main.js": "/Ozan-sert/Feedback-app/static/js/main.43c2e52e.js",
+    "index.html": "/Ozan-sert/Feedback-app/index.html",
+    "main.0a091ee3.css.map": "/Ozan-sert/Feedback-app/static/css/main.0a091ee3.css.map",
+    "main.43c2e52e.js.map": "/Ozan-sert/Feedback-app/static/js/main.43c2e52e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a091ee3.css",
+    "static/js/main.43c2e52e.js"
+  ]
+}
